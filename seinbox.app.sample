@@ -1,0 +1,6 @@
+{
+    "client_id": 999,
+    "client_secret": "AAAAAAAAAAAAAAAAAAAAAA((",
+    "client_key": "ZZZZZZZZZZZZZZZZZZZZZZ((",
+    "redirect_uri": "https://stackexchange.com/oauth/login_success"
+}
